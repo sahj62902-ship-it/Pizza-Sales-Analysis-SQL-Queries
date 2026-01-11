@@ -24,4 +24,4 @@ CSV or sample dataset for Pizza Sales
 Ideal For:
 Entry-level Data Analysts, Junior SQL Analysts, BI enthusiasts looking to demonstrate practical SQL problem-solving skills.
 
-Link to PDF: [Attach your SQL PDF here]
+Link to PDF: https://github.com/sahj62902-ship-it/Pizza-Sales-Analysis-SQL-Queries/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx
